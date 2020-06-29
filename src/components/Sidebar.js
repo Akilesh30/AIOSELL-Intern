@@ -6,7 +6,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import TextField from "@material-ui/core/TextField";
 const Divscroll = styled.div`
   overflow: scroll;
-  height: 250px;
+  height: 260px;
   width: 100%;
   overflow: auto;
   background-color: grey;
